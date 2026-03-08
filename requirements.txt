@@ -1,0 +1,24 @@
+# Web Framework
+fastapi==0.135.1
+uvicorn==0.41.0
+python-multipart==0.0.22
+
+# UI
+streamlit==1.54.0
+
+# Database & Search
+chromadb==1.5.2
+pydantic==2.12.5
+
+# AWS SDK (The core of your project)
+boto3==1.42.59
+botocore==1.42.59
+
+# Utils
+python-dotenv==1.2.2
+PyMuPDF==1.27.1
+pandas==2.3.3
+openpyxl==3.1.5
+
+# Graph Analysis (Medical Knowledge Mapping)
+networkx==3.4.2

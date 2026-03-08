@@ -1,0 +1,85 @@
+
+services:
+  # ============================================================================
+  # FastAPI Backend Service
+  # ============================================================================
+  backend:
+    image: ${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/evicare-backend:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: evicare-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - AWS_REGION=${AWS_REGION:-us-east-1}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID-}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY-}
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - chromadb_data:/app/vector_db/chunk_data
+      - ./data:/app/data
+      - audit_logs:/app/logs
+      # Use this syntax for Windows + Docker Desktop:
+      - ${HOME:-~}/.aws:/home/evicare/.aws:ro
+    command: ["backend"]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://backend:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+    networks:
+      - evicare-network
+
+  # ============================================================================
+  # Streamlit Frontend Service
+  # ============================================================================
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: evicare-frontend
+    ports:
+      - "8501:8501"
+    environment:
+      - DOCKER_RUNNING=true
+      - AWS_REGION=${AWS_REGION:-us-east-1}
+      - PYTHONUNBUFFERED=1
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID-}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY-}
+    volumes:
+      - chromadb_data:/app/vector_db/chunk_data
+      - ./data:/app/data
+      - audit_logs:/app/logs
+      - ${HOME:-~}/.aws:/home/evicare/.aws:ro
+    command: ["frontend"]
+    depends_on:
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+    networks:
+      - evicare-network
+
+# ============================================================================
+# Named Volumes for Data Persistence
+# ============================================================================
+volumes:
+  chromadb_data:
+    driver: local
+  audit_logs:
+    driver: local
+
+# ============================================================================
+# Network Configuration
+# ============================================================================
+networks:
+  evicare-network:
+    driver: bridge
