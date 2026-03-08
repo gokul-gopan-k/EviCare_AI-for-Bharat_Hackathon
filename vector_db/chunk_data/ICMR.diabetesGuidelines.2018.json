@@ -1,0 +1,882 @@
+[
+  {
+    "id": "icmr_diabetes_criteria_for_the_dia_01",
+    "text": "3.4 Oral Glucose Tolerance Test (OGTT) ICMR Guidelines for Management of Type 2 Diabetes 2018 3.5 Testing for type 2 diabetes in children and adolescents",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Criteria for the diagnosis of prediabetes",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_with_diabetes_01",
+    "text": "5.1 How to monitor and follow up people with diabetes? 5.2 Self monitoring with blood glucose (SMBG) with glucose monitor 5.3",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "WITH DIABETES",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_1_1_de__nition_01",
+    "text": "Diabetes mellitus is a syndrome of multiple etiologies characterized by chronic hyperglycaemia with disturbances of carbohydrate, fat and protein metabolism resulting from defects in insulin secretion, insulin action or both. This disorder is often associated with long term complications, involving organs like eyes, kidneys, nerves, heart and blood vessels.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "1.1 De\ufb01 nition",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_1_2_epidemiology_01",
+    "text": "In recent decades, India has witnessed a rapidly exploding epidemic of diabetes. Indeed, India today has the second largest number of people with diabetes in the world. The International Diabetes Federation (IDF) estimates that there are 72.9 million people with diabetes in India in 2017, which is projected to rise to 134.3 million by the year 2045. The prevalence of diabetes in urban India, especially in large metropolitan cities has increased from 2% in the 1970s to over 20% at present and the rural areas are also fast catching up.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "1.2 Epidemiology",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_usually_childhood_an_01",
+    "text": "adolescence, but can occur in adults as well Usually postpubertal; most common in middle to later age groups Diabetes in 1st degree relative",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Usually childhood and",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_lower_age_at_onset_o_01",
+    "text": "Type 2 diabetes Greater ethnic susceptibility and genetic familial aggregation of  type 2 diabetes dyslipidemia: ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Lower age at onset of",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_hypertension_1_5_goals_for_manage_01",
+    "text": "\uf06c Glycemic control and prevention of acute complications. \uf06c Relief from symptoms of diabetes and improvement in quality of life. \uf06c Identi\ufb01 cation and management of comorbid conditions like obesity, hypertension and dyslipidaemia \uf06c Prevention of microvascular complications like retinopathy, neuropathy and nephropathy. \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes_Hypertension",
+      "section": "1.5 Goals for management",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_prevention_01",
+    "text": "of macro-vascular complications like cardiovascular, cerebrovascular and peripheral vascular disease. \uf06c Prevention of infections. Therefore, the complete treatment of people with diabetes requires advocating a healthy life style with focus on increased physical activity and a proper balanced diet in addition to prescribing medications.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Prevention",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_1_6_diabetes_educati_01",
+    "text": "Diabetes education means empowering people with diabetes with knowledge and providing tools crucial for making them active partners in the diabetes management team. These include: \uf06c In-depth information about diabetes, its complications and treatment \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "1.6 Diabetes Education",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_self_monitoring_skil_01",
+    "text": "The compliance of people with diabetes is essential for effective management of diabetes. Education programmes are intended to help people to understand why these actions are so important and thereby increase their motivation for self-management. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Self monitoring skills",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_1_7_prevention_of_di_01",
+    "text": "There is an urgent need for strategies to prevent or at least slow down the emerging epidemic of diabetes apart from treating diabetes and associated complications. Several factors are thought to contribute towards the acceleration of the epidemic, the most important being the rapid epidemiological transition due to urbanization and life style changes. Identifying individuals at risk is essential in planning preventive measures. Prevention of diabetes has several windows of opportunities (Figure 1.3). The three stages of prevention are:",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "1.7 Prevention of Diabetes",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_1_7_2_primary_preven_01",
+    "text": "prevent the onset of diabetes. All people with prediabetes should be regularly screened and encouraged at each health care visit to pursue a healthy life-style, including a healthy diet, adequate exercise and weight control in order to prevent diabetes.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "1.7.2 Primary prevention targets people who are in the stage of prediabetes to",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_1_7_3_secondary_prev_01",
+    "text": "who are already diagnosed to have diabetes. This can be achieved by meticulous control of diabetes with the help of diet, physical activity, life style modi\ufb01 cation and antihyperglycaemic drugs as indicated.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "1.7.3 Secondary prevention is to prevent the onset of complications in those",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_1_7_4_tertiary_preve_01",
+    "text": "rehabilitation measures in those who have already developed diabetic complications and preventing them from going into end stage complications of diabetes. ICMR Guidelines for Management of Type 2 Diabetes 2018 Figure 1.2:  Levels of prevention of diabetes",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "1.7.4 Tertiary prevention of diabetes is aimed at limiting physical disability and",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_tertiary_01",
+    "text": "prevention ICMR Guidelines for Management of Type 2 Diabetes 2018 SECTION 2 SCREENING FOR TYPE 2 DIABETES Type 2 diabetes occurs a much earlier age (at least a decade earlier) in Indians compared to other major ethnic groups. Screening of asymptomatic individuals allows diagnosis of diabetes and prediabetes to be made at an earlier stage and thus appropriate management can be instituted. In addition, it provides an opportunity for screening of cardiovascular disease (CVD) risk factors and the institution of interventions for their control.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Tertiary",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_hypertension_family_history_of_di_01",
+    "text": "\uf06c Overweight/obese (BMI \u226523 kg/m2) or have increased waist circumference (>90 cm males, >80 cm females) \uf06c History of hypertension (\u2265130/80 mmHg) or on treatment for hypertension \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Hypertension",
+      "section": "Family history of diabetes",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_sedentary_physical_a_01",
+    "text": "\uf06c History of gestational diabetes or macrosomia (birth weight > 3.5 kg) \uf06c History of CVD (ischaemic heart disease, cerebrovascular disease) \uf06c History of polycystic ovarian syndrome and/or acanthosis nigricans",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Sedentary physical activity",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_2_2_how_to_screen__01",
+    "text": "Screening can be done by fasting plasma glucose, an oral glucose tolerance test (OGTT) using 75 gm glucose or a random plasma glucose. Glycosylated (glycated) haemoglobin (HbA1c) is also recommended for screening; however, in India there are some limitations regarding its use. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "2.2 How to screen?",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_2_4_retesting__01",
+    "text": "Retesting should be done after 3 years in case of normal glucose tolerance. In case of prediabetes, it should be done annually.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "2.4 Retesting:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_2_5_other_aspects__01",
+    "text": "CVD risk factors should be identi\ufb01 ed and treated. ICMR Guidelines for Management of Type 2 Diabetes 2018 SECTION 3",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "2.5 Other aspects:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_3_1_diagnostic_crite_01",
+    "text": "\uf06c Symptoms of diabetes (see box) plus casual or random plasma glucose \u2265 200 mg/dl (Casual means without regard to time of last meal) \uf06c Fasting plasma glucose \u2265 126 mg/dl \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "3.1 Diagnostic Criteria for Diabetes",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_3_3_criteria_for_the_01",
+    "text": "The term \u201cprediabetes\u201d refers to a situation where the blood glucose levels are higher than normal, but not high enough to warrant a diagnosis of diabetes. Prediabetes consists of two entities viz. impaired fasting glucose (IFG) and impaired glucose tolerance (IGT). The diagnostic criteria for diabetes and prediabetes are summarized in Table 3.1 ICMR Guidelines for Management of Type 2 Diabetes 2018 Table 3.1: Diagnostic criteria for diabetes and prediabetes",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "3.3 Criteria for the Diagnosis of Prediabetes",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_diabetes_01",
+    "text": "FPG < 110 mg/dl 110-125 mg/dl (IFG) \u2265126 mg/dl 2-h PG <140 mg/dl 140-199 mg/dl (IGT) \u2265 200 mg/dl HbA1c <5.7% 5.7-6.4% \u2265 6.5%",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Diabetes",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_random_plasma_01",
+    "text": "glucose* \u2265 200 mg/dl (with symptoms of diabetes) * Individuals with random plasma glucose between 140-199mg/dl are recommended to  undergo OGTT IFG - Impaired Fasting Glucose; IGT - Impaired Glucose tolerance; FPG - Fasting Plasma Glucose; 2-h PG-2 hour post load Glucose test (oral glucose tolerance test) plasma glucose. HbA1c \u2013 Glycosylated Haemoglobin",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Random plasma",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_3_4__oral_glucose_to_01",
+    "text": "\uf06c Person to be tested should be on a normal diet (with at least 200 g carbohydrate/ day) for at least 3 days before the test. \uf06c The test should be done after an overnight fast of 8-10 hours and comprises of two blood samples: fasting and 2 hours after glucose load. \uf06c Following the collection of the fasting blood sample for analysis of plasma glucose, the individual should be administered 75 g of glucose (1.75 g/ kg body weight for children to a maximum of 75 g) dissolved in at least 250 ml of water. The glucose load should be drunk within a period of 5 minutes. The second sample should be collected 2 hours after the glucose load is given. The subject should be resting and refrain from smoking in between the two sample collections. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "3.4  Oral Glucose Tolerance Test (OGTT)",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_3_5_testing_for_type_01",
+    "text": "Children and adolescents aged 18 years and below should be screened for diabetes if they are overweight (weight>120% of ideal body weight) and have any of the following risk factors: \uf06c Family history of type 2 diabetes in \ufb01 rst degree relatives \uf06c Signs of insulin resistance (Acanthosis nigricans) \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "3.5 Testing for Type 2 Diabetes in Children and Adolescents",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_targets_for_control__01",
+    "text": "Any target is only a general guideline, and individualized targets are to be established. Tight glycemic control is essential in the early stages of diabetes, especially in the young to prevent complications. With the onset of complications and in the elderly, targets need to be revised based on the condition of the patient.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "TARGETS FOR CONTROL OF DIABETES",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_hypertension_4_1_targets_for_meta_01",
+    "text": "Blood glucose, blood pressure, BMI, waist circumference and lipid targets for a patient with diabetes are listed in Table 4.1 and Table 4.2 below. Table 4.1: Targets for metabolic control in diabetes",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes_Hypertension",
+      "section": "4.1 Targets for metabolic control in diabetes",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_2_hour_postprandial__01",
+    "text": "<120 Physician may request for either for a 1 hour or 2 hour postprandial blood  glucose value for purposes of monitoring. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "2 hour Postprandial Glucose (mg/dl)",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_hypertension_5_1_how_to_monitor_a_01",
+    "text": "\uf06c Blood glucose - FPG and 2 hr PPPG at least once a month and more often if values are not in the ideal target range. \uf06c HbA1c at least every 6-12 months and more often (every 3 months) if values are not in the ideal target range, or tight control is being attempted \uf06c Clinical examination needs to be done during every visit--- minimum every 3 months. \uf06c Screening for long term complications like retinopathy, nephropathy, neuropathy, peripheral vascular disease (PVD) and coronary artery disease (CAD) at least once a year, more often if needed (see Section 8) \uf06c Optimizing weight, waist, blood pressure, lipids. \uf06c Routine examination of foot to be done during every visit & education regarding foot care to be given to patients in each visit \uf06c Discourage tobacco use and excess use of alcohol Urine glucose monitoring is not recommended. Urine examination for estimation of ketones should be done if blood glucose is greater than 400 mg/dl.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes_Hypertension",
+      "section": "5.1 How to Monitor and Follow up People with Diabetes?",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_5_2_self_monitoring__01",
+    "text": "It is indicated in the following conditions: \uf06c Ideal for every patient to achieve better control of diabetes. \uf06c All people with diabetes on insulin. \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "5.2 Self Monitoring of Blood Glucose (SMBG) with Glucose Monitor",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_brittle_diabetes_01",
+    "text": "\uf06c Those prone to ketosis/recurrent hypoglycaemia. \uf06c Hypoglycaemia unawareness. ICMR Guidelines for Management of Type 2 Diabetes 2018 \uf06c Whenever tight control is indicated \u2014 pregnancy, acute illness and complications. \uf06c Frequency of SMBG should be individualised (e.g. with greater frequency in pregnancy).",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Brittle diabetes",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_psychological_suppor_01",
+    "text": "\uf06c Tests to be carried out when indicated: X Ray chest, uric acid, TSH, SGOT, SGPT, vitamin B12, electrolytes, ultrasound abdomen Advanced monitoring can be done if required in case of recurrent hypoglycaemia, severe \ufb02 uctuations in blood glucose, disparity in measured glucose values and HbA1c, severe anaemia, haemoglobinopathy, hypoglycaemia unawareness etc. Here Continuous Glucose Monitoring (CGM) for 5-7 days or iSCGM (intermittently scanned CGM) for 14 days may be used. ICMR Guidelines for Management of Type 2 Diabetes 2018 SECTION 6 NON-PHARMACOLOGICAL MANAGEMENT OF DIABETES 6.1. Lifestyle Goals in Diabetes: \uf06c To improve health through optimum nutrition \uf06c To provide energy for reasonable body weight , normal growth and development \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Psychological support whenever necessary",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_6_2_3_special_situat_01",
+    "text": "(i) Sick Days In the event of fever or other illness, the diabetic diet should be modi\ufb01 ed by changing the consistency and texture of foods to maintain adequate calorie intake. Semi solid foods and \ufb02 uids or items like thin soups, milk, buttermilk, or fresh lime juice should be encouraged.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "6.2.3 Special situations requiring dietary modi\ufb01 cation:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_6_2_4_lifestyle_mana_01",
+    "text": "(i) Tobacco: Smoking and tobacco chewing is totally prohibited. (ii) Stress: Stress management is essential which could take the form of meditation, yoga, a long outdoor walk, exercise and trying out hobbies like reading, gardening, painting etc. Practice of yoga is our traditional Indian system, which has therapeutic value in controlling our physical and mental health. It should be done under the guidance of an expert. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "6.2.4 Lifestyle Management:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_hypertension_6_3_physical_activit_01",
+    "text": "Regular physical activity along with regulated exercise is an essential component of management of type 2 diabetes. Complete evaluation of patients with diabetes should be performed before recommending an exercise program. The exercise programme has to be individualized according to one\u2019s ability and individual capacity. Bene\ufb01 ts of exercise \uf06c Improves insulin sensitivity, reduces the  risk of heart disease, high blood pressure, bone diseases, and unhealthy weight gain \uf06c Keeps one \ufb02 exible and agile \uf06c Helps relieve stress, anxiety and prevents depression \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes_Hypertension",
+      "section": "6.3 Physical Activity and Exercise:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_delays_the_process_o_01",
+    "text": "Recommendation is about 150 minutes of aerobic activity or its equivalent /week along  with some resistance training at least twice a week and \ufb02 exibility exercises. People with diabetes need an extra quick acting carbohydrate snack before the exercise and during the exercise, if the exercise period extends the daily-recommended routine. ICMR Guidelines for Management of Type 2 Diabetes 2018 SECTION 7",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Delays the process of aging",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_1_anti_hyperglycae_01",
+    "text": "Blood glucose levels are determined by several factors such as absorption of glucose from gut, uptake of glucose by peripheral tissues (muscle, adipose tissue), hepatic glucose output, and secretion of hormones such as insulin and glucagon from the pancreas and incretins from the gut, as well as renal handling of glucose. Various anti-hyperglycaemic agents act by modifying the factors aiding in the control of hyperglycaemia as shown in Figure 7.1. The oral anti-hyperglycaemic agents currently available in India are listed in Table 7.1. Figure 7.1: Mechanism of action of  anti-hyperglycaemic drugs",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.1 Anti-Hyperglycaemic  Drugs",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_bromocriptine_01",
+    "text": "Only the major pathophysiology at each site is depicted Legend: SU- Sulfphonylureas; DPP4i- Dipeptidyl peptidase-4 inhibitors (Gliptins); GLP-1RA- Glucagon-like peptide-1 receptor agonists; TZD- Thiazolidinediones (Glitazones); AGI- Alpha-glucosidase inhibitor; Glinide- Non-sulphonylurea insulin secretagogue (Repaglinide and Nateglinide); SGLT2i- Sodium-glucose cotransporter-2 inhibitor ICMR Guidelines for Management of Type 2 Diabetes 2018 Table 7.1: Oral anti-hyperglycaemic  agents currently available in India",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Bromocriptine",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_16___24_01",
+    "text": "Urine (60%) Bile (40%) Newer agents like Glimepiride and Gliclazide are preferred nowadays. ICMR Guidelines for Management of Type 2 Diabetes 2018 DPP - 4 INHIBITORS",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "16 - 24",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_urine_01",
+    "text": "(83%), Faeces (10%) In addition, various \ufb01 xed dose combinations are also available although the Drug Controller of India (DCGI) does not favour \ufb01 xed combination doses particularly those consisting of more than two drugs. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Urine",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_1_1_biguanides__01",
+    "text": "Metformin is the only biguanide available in clinical practice. It mediates its effect by enhancing sensitivity of the liver and peripheral tissues to circulating insulin. The recommended starting daily dose is 500 mg after meals, which may be increased by",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.1.1 Biguanides:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_500_mg_every_two_wee_01",
+    "text": "daily doses (2500 mg) are reached. It can be used in combination with any other oral or injectable anti-hyperglycaemic agents. Metformin rarely produces hypoglycaemia when used as monotherapy. It is also associated with weight loss and is hence recommended as the \ufb01 rst line treatment in type 2 diabetes. Metformin has a favorable effect on lipids by decreasing triglycerides. It is advisable to stop metformin at least 24 hours before elective major surgery or use of radiocontrast media. Metformin should be withdrawn if any contraindications to its use occur. (a) Side effects: \uf06c Gastrointestinal side effects like abdominal discomfort and diarrhoea may occur in some patients. These can be minimized if metformin is administered after meals with slow titration of doses and with the use of sustained release preparations. \uf06c Lactic acidosis is a rare side effect and is very uncommon unless metformin is given in the presence of contraindications, given below. \uf06c Prolonged use of metformin may be associated with vitamin B12 de\ufb01 ciency. (b) Contraindications: \uf06c Renal insuf\ufb01 ciency (see Box) \uf06c Hepatic insuf\ufb01 ciency \uf06c Respiratory insuf\ufb01 ciency \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "500 mg every two weeks until desired therapeutic goals are achieved or maximum",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_1_2_sulphonylureas_01",
+    "text": "The sulphonylureas (glibenclamide, glipizide, gliclazide and glimepiride) bind to speci\ufb01 c sulphonylurea receptors on pancreatic \u03b2-cells and increase insulin secretion. Therapy should be initiated with the lowest effective dose and titrated upwards every two weeks until the desired control or maximal dosage is reached. Sulphonylureas are preferably given 15 to 30 minutes before meals. They can be combined with all other anti-hyperglycaemic agents except glinides and other sulphonylureas. Various clinical trials have failed to conclusively demonstrate superiority of one sulphonylurea over the other, when used in optimal doses. In individual cases, switching from one sulphonylurea to another may show some bene\ufb01 t, but this may not be long lasting. (a)  Factors to be considered when evaluating non-responsiveness to sulphonylureas: \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.1.2 Sulphonylureas:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_weight_gain_01",
+    "text": "\uf06c Non-compliance to diet and exercise. \uf06c Poor compliance to drugs. ICMR Guidelines for Management of Type 2 Diabetes 2018 \uf06c Inadequate dosage. \uf06c Impaired absorption. \uf06c Co-existing endocrine disorders such as thyroid disease. \uf06c Concomitant medications such as steroids. \uf06c Infections, stress. (b) Side effects: Hypoglycaemia is the commonest side effect of sulphonylurea therapy. It is more likely to be prolonged and profound with older and long acting sulphonylureas like glibenclamide and hence they should be used with extreme caution in the elderly. The other side effects are: \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Weight gain",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_weight_gain_02",
+    "text": "\uf06c Photosensitivity reactions (hyperpigmentation of exposed parts) may occur. \uf06c Rarely, skin rashes, leucopenia, anaemia, thrombocytopenia, cholestatic jaundice, Stevens-Johnson syndrome or granulomatous hepatitis may occur. (c) Contraindications: \uf06c Type 1 diabetes. \uf06c Renal insuf\ufb01 ciency. \uf06c Hepatic insuf\ufb01 ciency, acute hepatitis. \uf06c Ketoacidosis. \uf06c Acute myocardial infarction. \uf06c Disseminated tuberculosis. \uf06c History of adverse reactions to sulphonylureas. ICMR Guidelines for Management of Type 2 Diabetes 2018 7.1.3- Dipeptidyl peptidase-4 (DPP-4) inhibitors (Gliptins): These agents work by inhibiting the enzyme dipeptidyl peptidase-4, which breaks down the incretin hormones glucagon-like peptide 1 (GLP-1) and glucose dependent insulinotropic peptide (GIP) secreted from the gut in response to a meal. Increase in blood levels of incretin hormones stimulates glucose-dependent insulin secretion from the beta cells of the pancreas and suppression of glucagon release from the alpha cells. The main advantages of gliptins are that they do not cause hypoglycaemia when used as monotherapy and are weight-neutral. Sitagliptin, vildagliptin, saxagliptin, linagliptin, teneligliptin and gemigliptin are the DPP-4 inhibitors available in India at present. Most of the gliptins are used as a single daily dose except vildagliptin which is used twice a day. Gliptins are best used in combination with metformin as second line of therapy. They can also be used as monotherapy or in combination with any other oral antihyperglycaemic agent or insulin. The dosage should be reduced in the presence of renal insuf\ufb01 ciency except in the case of linagliptin, teneligliptin and gemigliptin (the latter two to be used with caution in advanced renal disease). (a) Side effects: \uf06c Gastrointestinal problems \u2013 including nausea, diarrhoea and stomach pain \uf06c Flu-like symptoms \u2013 headache, runny nose, sore throat. \uf06c Skin reactions \u2013 painful skin followed by a red or purple rash. \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Weight gain",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_acute_pancreatitis_01",
+    "text": "\uf06c Dose of sitagliptin, vildagliptin and saxagliptin should be reduced in renal impairment, teneligliptin and gemigliptin should be used with caution in advanced renal disease (linagliptin can be continued at unchanged doses) \uf06c Allergic reactions to gliptins. \uf06c Saxagliptin should be avoided in cardiac failure. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Acute pancreatitis",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_hypertension_7_1_4_sglt2_inhibito_01",
+    "text": "Canagli\ufb02 ozin, dapagli\ufb02 ozin and empagli\ufb02 ozin are the agents in this class available in India at present. They inhibit SGLT2 located on the proximal convoluted tubule of the kidney thus causing glycosuria. In addition to reducing blood glucose levels, these agents also cause weight loss and reduction of blood pressure. There is also some evidence that these agents have cardiovascular bene\ufb01 ts over and above their glucose lowering effects. (a) Side effects: \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes_Hypertension",
+      "section": "7.1.4 SGLT2 Inhibitors (Sodium Glucose Transporter 2 inhibitors):",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_1_6_non_sulphonylu_01",
+    "text": "Repaglinide and nateglinide are non-sulphonylurea insulin secretagogues. They are benzoic acid derivatives, which act on separate non-sulphonylurea receptor binding sites on the \u03b2-cell and enhance insulin secretion. These agents are absorbed rapidly (0.5-1 hr) and have a short half life (<1 hr). Thus, they result in rapid but brief release of insulin, and hence may be useful in managing postprandial hyperglycaemia. They have to be administered with each meal. \uf06c They produce fewer and milder hypoglycaemic episodes and other side effects compared to sulphonylureas. \uf06c The indications and contraindications for these agents are similar to sulphonylureas. \uf06c They may be used in mild renal insuf\ufb01 ciency and elderly under supervision. \uf06c There is no indication for combining these drugs with sulfonylureas.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.1.6 Non-sulphonylurea Insulin Secretagogues (Glinides):",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_1_7_alpha_glucosid_01",
+    "text": "Alpha- glucosidase inhibitors (AGI) (acarbose, miglitol and voglibose) act by competitively inhibiting alpha-glucosidase, the enzyme in the small intestine brush border which breaks down oligosaccharides and disaccharides into mono-saccharides. Thus, the absorption of glucose is delayed. AGIs are especially useful in decreasing post-prandial glucose levels. They can be combined with all other oral and injectable anti-hyperglycaemic agents. These agents should be started with the minimum dose at any one meal and then increased to the maximum tolerable dose. They must be ingested with the \ufb01 rst bite of food, as the drug must be present in the small bowel with the food for proper effect. Hypoglycaemia rarely occurs if used as monotherapy. If hypoglycaemia results from combination therapy of which AGI is a component, treatment should be with oral glucose rather than sucrose. ICMR Guidelines for Management of Type 2 Diabetes 2018 (a) Side effects: Gastrointestinal side effects like bloating, abdominal discomfort, diarrhoea and \ufb02 atulence are common. (b) Contraindications: \uf06c In\ufb02 ammatory bowel disease. \uf06c Cirrhosis of liver. \uf06c Malabsorption syndromes. \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.1.7 Alpha-glucosidase inhibitors:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_1_8_other_oral_ant_01",
+    "text": "The disease-modifying antirheumatoid drug hydroxychloroquine and the dopamine agonist bromocriptine are also approved for use as antihyperglycaemic agents in India. The role of these agents in the therapeutic algorithm for type 2 diabetes needs further study. The dual PPAR\u03b1/\u03b3 agonist saroglitazar is only licensed for use in diabetic dyslipidaemia in India and not as an antihyperglycaemic agent.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.1.8 Other oral anti-hyperglycaemic agents:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_consider_01",
+    "text": "dual OHA therapy HbA1c not at target HbA1c at target Continue + monitor *** SU DPP 4 inhibitors SGLT2 inhibitors",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Consider",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_dual_therapy_metform_01",
+    "text": "Legend: SU- Sulfphonylureas; DPP4i- Dipeptidyl peptidase-4 inhibitors (Gliptins); GLP-1RA- Glucagon- like peptide-1 receptor agonists; TZD- Thiazolidinediones (Glitazones); AGI- Alpha-glucosidase inhibitor; Glinide- Non-sulphonylurea insulin secretagogue (Repaglinide and Nateglinide); SGLT2i- Sodium- glucose cotransporter-2 inhibitor *  with or without oral agents ** If metformin is contraindicated, monotherapy can be initiated with any of the other classes of oral agents *** Monitor for continued ef\ufb01 cacy of drug as well as for development of side-effects ICMR Guidelines for Management of Type 2 Diabetes 2018 \uf06c In practice, majority of patients will require pharmacotherapy at time of diagnosis along with lifestyle modi\ufb01 cation \uf06c If the initial blood glucose levels are very high, the symptoms are very severe or acute complications like ketosis are present, insulin should be considered even at the onset at least for a brief period for early achievement of euglycemia. \uf06c If the initial assessment shows presence of complications like diabetic retinopathy or nephropathy, this indicates a long period of undiagnosed diabetes and insulin therapy on a continuous basis should be considered. \uf06c With increasing duration of diabetes, most oral anti-hyperglycaemic agents tend to become less effective and hence poly-pharmacy becomes inevitable, with use of drugs from multiple classes. However, insulin use should not be delayed and whenever necessary, insulin should be introduced for tight glycemic control.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Dual therapy Metformin plus",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_1_10_combination_o_01",
+    "text": "When glycemic control is not achieved with the maximum tolerable dose of a single oral agent or combination of oral drugs, combination of oral drugs and insulin can help to achieve good control of diabetes. Oral drugs may be continued in optimal doses, while intermediate acting/long acting/short acting insulin is added either at bedtime or in the morning depending on the blood glucose pro\ufb01 le of the patient. When premixed or multiple dose insulin is given, consideration may be given to reducing the dose of secretagogues or stopping them altogether.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.1.10 Combination of oral drugs with insulin:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_2_insulin_therapy_01",
+    "text": "Insulin is the mainstay of therapy in type 1 diabetes. However, many patients with type 2 diabetes will also require insulin injections to help them achieve their glycemic targets.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.2 Insulin therapy",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_2_1_indications_fo_01",
+    "text": "diagnosis: \uf06c Person with diabetes with signi\ufb01 cant, symptomatic hyperglycaemia, loss of weight and polyuria, polydipsia, polyphagia \uf06c Fasting plasma glucose > 270 mg/dl or HbA1c >9% \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.2.1 Indications for the use of insulin in type 2 diabetes mellitus at the time of",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_2_2_other_situatio_01",
+    "text": "\uf06c Patients not responding to optimal doses of oral anti-hyperglycaemic agents alone or in combination. \uf06c Acute hyperglycaemia, diabetic ketoacidosis / hyperglycemic-hyperosmolar state / lactic acidosis. \uf06c Stressful situations such as acute myocardial infarction, stroke, acute infections, tuberculosis*,trauma and other conditions requiring hospitalisation \uf06c Pregnancy and lactation. \uf06c Peri-operative state. \uf06c Intolerant / contraindications to OHA. ICMR Guidelines for Management of Type 2 Diabetes 2018 \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.2.2 Other situations where insulin is indicated:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_2_8_insulin_admini_01",
+    "text": "(i) Insulin pens: \uf06c Several pen-like devices and insulin containing cartridges are available that deliver insulin subcutaneously through a needle. \uf06c They are easy to use. (ii) Insulin pumps: \uf06c Insulin pump for continuous subcutaneous insulin infusion is available in India with integrated algorithm, which can automatically stop release of insulin thirty minutes before onset of hypoglycemia. It is indicated for those with brittle diabetes, multiple dose injections and recurrent episodes of hypoglycaemia. \uf06c Its use may be restricted to diabetes specialists with relevant experience. The main problems associated with insulin use are hypoglycaemia and weight gain. Weight gain can be signi\ufb01 cant and is generally well correlated with the total daily dose of insulin. Used needles must be disposed off in a bio-safe manner. For initiating insulin, it is not necessary to hospitalize the patient. It can be done on outpatient basis. ICMR Guidelines for Management of Type 2 Diabetes 2018 Insulin colour coding: Yellow- regular insulin Green- NPH Brown- Premix insulin (iii)  Injection procedure (Figure 7.6) \uf06c Injections are given into the subcutaneous tissue. \uf06c Inject insulin by lifting up a fold of skin and inject at a 90\u00b0\u00b0 angle. \uf06c Thin individuals or children may need to pinch the skin and inject at a 45\u00b0 angle to avoid intramuscular injection, especially in the thigh area. Figure 7.6 Procedure for injecting insulin (iv) Injection site \uf06c Insulin may be injected into the subcutaneous tissue of the upper arm, the anterior and lateral aspects of the thigh, the buttocks and the abdomen. For self injection, abdomen and thigh are the convenient sites. ICMR Guidelines for Management of Type 2 Diabetes 2018 \uf06c Rotation of the injection site is important to prevent lipohypertrophy or lipoatrophy.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.2.8 Insulin administration:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_2_8_insulin_admini_02",
+    "text": "Figure 7.6 Procedure for injecting insulin (iv) Injection site \uf06c Insulin may be injected into the subcutaneous tissue of the upper arm, the anterior and lateral aspects of the thigh, the buttocks and the abdomen. For self injection, abdomen and thigh are the convenient sites. ICMR Guidelines for Management of Type 2 Diabetes 2018 \uf06c Rotation of the injection site is important to prevent lipohypertrophy or lipoatrophy. Rotating within one area is recommended (e.g. rotating injections systematically within the abdomen) rather than rotating to a different area with each injection. This practice may decrease variability in absorption from day to day. \uf06c Site selection should take into consideration the variable absorption between sites. The abdomen has the fastest rate of absorption followed by the arms, thighs and buttocks. \uf06c Exercise increases the rate of absorption from the injection sites. \uf06c The most commonly recommended interval between injection of short acting (regular) / premixed insulin and a meal is 30 min. However, insulin analogues can be given along with or even after a meal. Figure 7.7  Recommended sites for insulin injection ICMR Guidelines for Management of Type 2 Diabetes 2018 (v)  Adverse effects associated with insulin use: \uf06c The main problems associated with insulin use are hypoglycaemia and weight gain. \uf06c Weight gain can be signi\ufb01 cant and is generally well correlated with the total daily dose of insulin. (vi) Disposal of needles: \uf06c Used needles must be disposed of in a bio-safe manner. Used sharps should be collected in a strong cardboard/ glass container, sealed and labelled and handed over to the nearest healthcare facility (vii) Initiation of insulin: \uf06c For initiating insulin, it is not necessary to hospitalize the patient. It can be done on outpatient basis. \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.2.8 Insulin administration:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_7_2_8_insulin_admini_03",
+    "text": "(vi) Disposal of needles: \uf06c Used needles must be disposed of in a bio-safe manner. Used sharps should be collected in a strong cardboard/ glass container, sealed and labelled and handed over to the nearest healthcare facility (vii) Initiation of insulin: \uf06c For initiating insulin, it is not necessary to hospitalize the patient. It can be done on outpatient basis. \uf06c The dose has to be individualized depending upon the blood glucose pro\ufb01 le and clinical setting. \uf06c It is better to start with small doses and modify accordingly every three days. \uf06c Generally, the starting dose of insulin should be 0.2 units/kg/day (viii) Adding insulin to oral antihyperglycaemic agents: When combinations of oral antihyperglycaemic agents no longer maintain the level of control desired, insulin is needed (see section 7.1) (ix) Multiple insulin injections: \uf06c When a single insulin injection plus one or more oral agents no longer maintains good glucose control, two or more injections are needed. \uf06c A regimen containing mixtures of NPH and regular insulin mixed in different ratios (e.g. 30:70, 50:50) either mixed by the individual or premixed, taken before breakfast and dinner is a reasonable way to start multiple injections. \uf06c Older persons need careful monitoring to avoid hypoglycaemia. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "7.2.8 Insulin administration:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_complications_of_dia_01",
+    "text": "Most of the morbidity and mortality due to diabetes arises on account of its complications. Diabetes complications can be broadly divided into acute and chronic complications. Acute complications include hypo- and hyperglycaemic emergencies whereas chronic complications include microvascular disease (retinopathy, nephropathy and neuropathy), macrovascular disease (coronary artery disease, cerebrovascular disease and peripheral vascular disease) and diabetic foot.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "COMPLICATIONS OF DIABETES",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_8_1_2_hyperglycaemic_01",
+    "text": "Hyperosmolar Hyperglycaemic State- HHS): Usually such emergencies occur in situations like infections or other stressful conditions. There is usual history of missed dose of insulin or poor control of diabetes. DKA is characterized by abdominal pain and is manifested with breathlessness, vomiting, altered sensorium and dehydration. The symptoms of HHS are predominantly neurological; dehydration is usually more profound but abdominal pain is uncommon. Steps to be taken: \uf06c Monitor glucose levels. \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "8.1.2 Hyperglycaemic emergencies (Diabetic Ketoacidosis- DKA or",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_8_2_chronic_complica_01",
+    "text": "Diabetes mellitus is a systemic disorder, which potentially can cause serious organ damage involving eyes, heart, kidney, nerves and limbs, which ultimately can lead to blindness, heart attack, kidney failure and limb amputation respectively. If diagnosed early and treated in time appropriately, the damage to some of these organs can be largely prevented or reversed. Another important issue is that most complications cause clinical symptoms only at a very late stage and thus for their early diagnosis, these complications have to be speci\ufb01 cally looked for even at the time of prediabetes. Considering this, the following approach is advisable for management of people with type 2 diabetes. On the \ufb01 rst clinic visit detailed history and a thorough examination with preliminary tests are essential. Additional investigations may be necessary if there are high risk factors in the patient and/or there is any abnormality in history, examination and preliminary investigations. At that stage, these patients need to be referred to specialists for further management. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "8.2 Chronic Complications",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_medications_and_dose_01",
+    "text": "\uf06c Compliance with medication and life style measures \uf06c Latest blood glucose, HbA1C and other lab reports  available 8..2.1.2 Past history: \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Medications and doses",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_8_4_1_investigations_01",
+    "text": "\uf06c Urine microscopy (Casts and pus cells, RBC) \uf06c Blood Urea, Serum creatinine ICMR Guidelines for Management of Type 2 Diabetes 2018 \uf06c",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "8.4.1 Investigations:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_8_4_2_management_of__01",
+    "text": "The algorithm given in the next page outlines the steps in investigation of albuminuria / proteinuria in a person with diabetes.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "8.4.2 Management of albuminuria /proteinuria:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_patient_has_nephroti_01",
+    "text": "\uf06c Proteinuria is present in absence of retinopathy. \uf06c Serum creatinine is > 1.5 mg%. \uf06c Any patient with pregestational diabetes or GDM with proteinuria \uf06c eGFR as calculated by MDRD is < 60 ml/min. \uf06c Presence of \ufb02 uid overload or oliguria. ICMR Guidelines for Management of Type 2 Diabetes 2018 Figure. 8.1 shows a suggested algorithm for the evaluation of proteinuria in a patient with diabetes. This will help differentiate proteinuria of diabetic and non-diabetic etiology. Figure 8.1: Algorithm for evaluation of non-diabetic proteinuria",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Patient has nephrotic range proteinuria",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_8_5_2_general_consid_01",
+    "text": "\uf06c Inform all patients that sight threatening eye disease is a common complication of diabetes. \uf06c Severe diabetic retinopathy can be present even with good vision. \uf06c Glasses testing/refraction should not be mistaken for retinal examination. \uf06c Physicians should impress that it is mandatory to undergo a dilated retinal examination preferably by a trained retina specialist. \uf06c Vision testing and (if possible) intraocular pressure testing should be done before retinal examination in all patients. \uf06c Person with impaired vision (< 6/60) should undergo low vision evaluation and rehabilitation. \uf06c Person with diabetes should be screened for other causes of visual loss like cataract, glaucoma and macular degeneration.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "8.5.2 General considerations:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_annually_thereafter_01",
+    "text": "Pregnancy in pre-existing diabetes, retinal examination prior to conception and during pregnancy, refer to the ophthalmologist / -retina specialist  early in the \ufb01 rst trimester * Based on the \ufb01 ndings during the fundus examination, subsequent follow up advice is provided. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Annually thereafter",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_motor_power_assessme_01",
+    "text": "\uf06c Examination of BP in sitting and standing positions and ECG for heart rate variability may be useful in diagnosing autonomic neuropathy. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "Motor power assessment and tendon jerks",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_8_7_1_diabetic_foot__01",
+    "text": "This aims at categorizing feet into Low risk, At Risk or Active Foot Disease. Examination of a patient should include: 8.7.1.1. Foot inspection: \uf06c Inspection of skin, nails and for structural foot deformity. \uf06c Examination of footwear. \uf06c Record presence of: ICMR Guidelines for Management of Type 2 Diabetes 2018 \u2022 toe deformities like claw toes, hammer toe \u2022 bunion \u2022 high arch foot (pes cavus) \u2022 Charcot foot 8.7.1.2. 10g mono\ufb01 lament sensation: It delivers a 10 gram force when applied so as to make it buckle. A person who can feel the 10 gram \ufb01 lament in the selected sites (Figure 8.2.C) is at reduced risk for developing ulcers. \uf06c Apply the mono\ufb01 lament perpendicular to the skin\u2019s surface (see Figure 8.2.A below). \uf06c Apply suf\ufb01 cient force to cause the \ufb01 lament to bend or buckle (see Figure 8.2.B below). \uf06c The total duration of the approach, skin contact, and departure of the \ufb01 lament should be approximately 1- 2 seconds. \uf06c Apply the \ufb01 lament along the perimeter and NOT ON an ulcer site, callus, scar or necrotic tissue. Do not allow the \ufb01 lament to slide across the skin or make repetitive contact at the test site. Figure 8.2. The mono\ufb01 lament test Figure 8.2.A Figure 8.2.B Figure 8.2.C ICMR Guidelines for Management of Type 2 Diabetes 2018 8.7.1.3. Vibration perception (128 Hz tuning fork): Place the stem of the fork over the bony prominences of the foot (big toe and medial malleolus) and ask the patient if he feels the vibration. Record the result as absent, reduced or present depending on the patient\u2019s response. If absent, check at more proximal sites such as tibial tuberosity and anterior superior iliac spine. 8.7.1.4.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "8.7.1 Diabetic foot screening:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_8_7_1_diabetic_foot__02",
+    "text": "Vibration perception (128 Hz tuning fork): Place the stem of the fork over the bony prominences of the foot (big toe and medial malleolus) and ask the patient if he feels the vibration. Record the result as absent, reduced or present depending on the patient\u2019s response. If absent, check at more proximal sites such as tibial tuberosity and anterior superior iliac spine. 8.7.1.4. Biothesiometer test: The vibration perception threshold (VPT) is examined using a biothesiometer with the patient in the supine position with or without eyes closed. 8.7.1.5. Vascular assessment: This involves the manual palpation of the dorsalis pedis and posterior tibial pulses in both feet. Ankle brachial pressure index (ABI) using hand held Doppler should be assessed if peripheral pulsations are absent or clinical suspicion of peripheral ischaemia (Normal ABI is between 0.9 to 1.3). 8.7.2. Risk categorization: Risk categorization method for basic foot screening involves history of diabetes- related foot complications, medical history, and assessment of peripheral sensation, arterial supply and presence of foot deformity (Table 8.1) ICMR Guidelines for Management of Type 2 Diabetes 2018 Table 8.1 Risk categories in diabetic foot",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "8.7.1 Diabetic foot screening:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_9_2_gestational_diab_01",
+    "text": "Glucose intolerance of any severity detected for the \ufb01 rst time during pregnancy is termed as gestational diabetes mellitus (GDM). ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "9.2 Gestational Diabetes Mellitus (GDM)",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_first_degree_relativ_01",
+    "text": "\uf06c Pre-pregnancy obesity (BMI > 25 kg/m2) \uf06c History of large weight babies (>3.5kgs) \uf06c Bad obstetric history;  - stillbirth, congenital anomalies, recurrent pregnancy loss, ,  eclampsia, hydramnios \uf06c Repeated or persistent urinary tract infection. \uf06c Glycosuria during pregnancy. \uf06c Age above 25 years. However, if all these criteria are employed there will be very few women who are at low risk and do not need screening for GDM. Hence, it is better to try to screen all pregnant women for GDM. 9.2.1b Screening methods for GDM: Screening for diabetes is ideally done at the \ufb01 rst antenatal visit. Screening at the \ufb01 rst trimester is mainly to rule out pre-existing diabetes. For this, fasting blood glucose or random blood glucose or HbA1C should be done. If the fasting glucose is \u2265 126 mg/dl or the random glucose is \u2265200 mg/dl or HbA1C is \u22656.5%, it indicates pre-existing diabetes. A fasting plasma glucose between 92-125 mgs/dl at the \ufb01 rst trimester screening is considered as GDM according to International Association of Diabetes and Pregnancy Study Groups (IADPSG) criteria. At the second trimester, ICMR Guidelines for Management of Type 2 Diabetes 2018 screening for GDM is done usually between 24 and 28 weeks of gestation. An Oral Glucose Tolerance Test (OGTT) should be done using 75 gm glucose load using the IADPSG criteria (endorsed by WHO 2013 & FIGO 2016). The following are the IADPSG glucose cut-offs for GDM: Fasting Plasma Glucose (mg/dl) \u2265 92",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "First degree relative with diabetes",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_hypertension_2_hour__mg_dl__01",
+    "text": "\u2265 153 If any one of the values is above these cut-offs, the woman is diagnosed to have GDM. In situations where pregnant women cannot come in a fasting state and in resource limited settings, the Diabetes in Pregnancy Study Groups of India (DIPSI) guidelines of non-fasting 75 gms single 2 Hr post glucose value \u2265 140 mg/dl can be used. 9.3. Management of hyperglycaemia in pregnancy Insulin is the preferred drug of choice in diabetes and pregnancy. Currently most types of insulin are approved for use in pregnancy except Glargine, Glulisine and Degludec. Increasingly studies are showing the safety of Metformin in pregnancy. Besides glycemic control, fetal growth and maternal blood pressure need to be monitored. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes_Hypertension",
+      "section": "2 hour (mg/dl)",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_9_4_post_partum_foll_01",
+    "text": "As 50-70% of women with GDM go on to develop diabetes within 5-10 years after delivery, post partum screening for diabetes is necessary. A 2 hr OGTT using 75g glucose should be done 6-8 weeks after delivery for reclassi\ufb01 cation of diabetes as normal, pre-diabetes or diabetes. If normal, the testing should be repeated annually. ICMR Guidelines for Management of Type 2 Diabetes 2018 SECTION 10",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "9.4 Post-partum follow up",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_hypertension_10_1_1_blood_pressur_01",
+    "text": "If blood pressure is >140/90mm Hg Recheck after 1 week If still high, drug therapy needs to be initiated with a single drug 1. ACE inhibitors /ARB (do not combine both) (or) 2.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Hypertension",
+      "section": "10.1.1 Blood pressure management and targets:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_hypertension_calcium_channel_bloc_01",
+    "text": "3. Selective beta blockers or diuretics (as a third line option if indicated) If the blood pressure remains >140/90 mm Hg after 1 month of monotherapy, add a second drug from a different class (do not combine ACEI and ARB). If BP is not controlled even with optimal doses of two agents, referral to a specialist is indicated. In patients with diabetic renal disease, even lower BP targets are recommended. ICMR Guidelines for Management of Type 2 Diabetes 2018",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes_Hypertension",
+      "section": "Calcium channel blockers",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_hypertension_10_1_2_severe_hypert_01",
+    "text": "If at initial visit, blood pressure is > 180/110 mm Hg, or the patient has evidence of end organ damage, treatment should be initiated with two drugs initially and patient should be referred to a specialist as early as possible. 10.2. Dyslipidaemia All patients with diabetes should be screened for dyslipidaemia and if present should be treated aggressively 10.3. Obesity Weight reduction should be attempted in obese individuals. Lifestyle modi\ufb01 cation is the main stay of treatment and judiciously drugs may be used as an adjuvant. In morbid obesity, bariatric surgery may be an option.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes_Hypertension",
+      "section": "10.1.2 Severe hypertension:",
+      "country_context": "India"
+    }
+  },
+  {
+    "id": "icmr_diabetes_10_4_tuberculosis_01",
+    "text": "Tuberculosis (TB) is one of the major public health problems in India. The prevalence of diabetes is high among people with TB in India and about 25% of TB patients were found to have diabetes and 24%, pre-diabetes. Diabetes is believed to elevate the risk of contracting TB by 2.5 to 3-fold. There should be a high index of suspicion for TB in all patients with diabetes. Wherever clinically indicated, initial evaluation of a patient with diabetes should include a chest X-ray. Reducing morbidity and mortality due to TB and DM can be achieved through integrated approach of prevention, bidirectional screening for early detection in routine health care setting and management strategies through integration of services for TB and diabetes. Insulin is preferred if diabetes is uncontrolled or the TB is severe.",
+    "metadata": {
+      "source": "ICMR",
+      "guideline": "ICMR Guidelines for Management of Type 2 Diabetes",
+      "condition": "Diabetes",
+      "section": "10.4 Tuberculosis",
+      "country_context": "India"
+    }
+  }
+]
